@@ -44,10 +44,10 @@ google: 102231220507935780589
 # spotify: myspotify
 github: datasetjames
 # lastfm: mylastfm
- stackoverflow: 7044681/mystackoverflow
- quora: test_userquora
- reddit: test_username
- medium: test_medium
+ stackoverflow: 7044681/datasetjames
+ quora: datasetjames
+ #reddit: datasetjames
+ medium: datasetjames
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: datasetjames@gmail.com
