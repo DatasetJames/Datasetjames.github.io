@@ -42,10 +42,10 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
- github: datasetjames
+github: datasetjames
 # lastfm: mylastfm
- stackoverflow: 7044681/datasetjames
- quora: datasetjames
+stackoverflow: 7044681/datasetjames
+quora: datasetjames
  #reddit: datasetjames
  #medium: datasetjames
 # vimeo: myvimeo
