@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-#url: https://Datasetjames.github.io
+url: https://Datasetjames.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -42,7 +42,7 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-# github: datasetjames
+github: datasetjames
 # lastfm: mylastfm
 # stackoverflow: 8590009/datasetjames
 # quora: datasetjames
